@@ -29,6 +29,6 @@
 
 #### BOJ Stats
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qwery4736)
-[![Programmers](https://img.shields.io/badge/Programmers-228%2B%20solved-brightgreen?style=flat&logo=programmers&logoColor=white)](https://programmers.co.kr/profile/answnsdud1004)
+<img width="300" height="200" alt="프로그래머스" src="https://github.com/user-attachments/assets/cf1106a7-d45e-45f3-ac70-39270250e99d" />
 
 
